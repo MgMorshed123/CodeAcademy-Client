@@ -28,8 +28,6 @@ This project is built using the following technologies:
 - React
 - React-Router-Dom
 - Tailwind CSS
-- Mamba UI
-- Kitwind
 - DaisyUI
 - Context API 
 - Firebase
